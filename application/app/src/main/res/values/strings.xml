@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">星腾金融</string>
+    <string name="women">关于我们</string>
+    <string name="bandka">在线办卡</string>
+    <string name="tie">在线提额</string>
+    <string name="mcc">MCC查询</string>
+    <string name="womenOther">\t星腾金融致力于建立国内最大的高端互联网金融技术平台与人脉平台，群内会员遍布中国大江南北及各行业精英，我们有强大的技术团队，讲师团队及行业资源，星腾金融期待您的加入！\n\t星腾金融中心交流群 301516660</string>
+    <string name="write">请输入MCC查询相关信息</string>
+    <string name="womenhead">\t星腾金融简介：</string>
+</resources>
